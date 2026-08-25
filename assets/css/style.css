@@ -56,9 +56,9 @@
   --card-w: 27.125rem;  /* 434 */
   --card-h: 24.75rem;   /* 396 */
   --card-gap: 4.5rem;   /* 72  */
-  --vcard-w: 25.875rem; /* 414 */
+  --vcard-w: 23.2875rem;/* 414 × 90% = 373 */
   --vcard-gap: 6.375rem;/* 102 */
-  --icard-w: 24.25rem;  /* 388 */
+  --icard-w: 21.825rem; /* 388 × 90% = 349 */
   --icard-gap: 5.625rem;/* 90  */
 
   --sans: "Min Sans", "Pretendard", -apple-system, BlinkMacSystemFont, "Apple SD Gothic Neo", "Malgun Gothic", sans-serif;
@@ -508,7 +508,7 @@ a.brand-item:hover .brand-item__box { transform: translateY(-.5rem); box-shadow:
 .channel { margin-bottom: 8.5rem; }
 .channel:last-child { margin-bottom: 0; }
 
-.channel__head { display: flex; align-items: center; gap: 1.25rem; margin-bottom: 3.5rem; }
+.channel__head { display: flex; align-items: center; gap: 1.25rem; margin-bottom: 1.75rem; }
 .channel__logo {
   width: 4.875rem; height: 4.875rem;
   border-radius: 50%;
@@ -932,11 +932,11 @@ a.brand-item:hover .brand-item__box { transform: translateY(-.5rem); box-shadow:
 
   .row { gap: 1.25rem !important; }
   .row > * { flex-basis: 42vw; }
-  .row--v > *, .row--ig > * { flex-basis: 32vw; }
+  .row--v > *, .row--ig > * { flex-basis: 28.8vw; }   /* 32vw × 90% */
 
   .dotted { margin: 3.5rem 0 4rem; }
   .channel { margin-bottom: 3.5rem; }
-  .channel__head { margin-bottom: 1.25rem; gap: .75rem; }
+  .channel__head { margin-bottom: .625rem; gap: .75rem; }
   .channel__logo { width: 3rem; height: 3rem; }
   .channel__name { font-size: 1.0625rem; }
   .channel__desc { font-size: .8125rem; }
@@ -977,7 +977,7 @@ a.brand-item:hover .brand-item__box { transform: translateY(-.5rem); box-shadow:
   .self__note { width: 100%; margin-right: 0; font-size: .875rem; padding: 2.5rem 1.25rem 1.5rem; }
   .self__note::before { width: 3rem; height: 3rem; top: -1.5rem; }
   .row > * { flex-basis: 74vw; }
-  .row--v > *, .row--ig > * { flex-basis: 58vw; }
+  .row--v > *, .row--ig > * { flex-basis: 52.2vw; }   /* 58vw × 90% */
   .topnav__brand, .topnav__mail { display: none; }
   .topnav__list { margin-inline: 0; width: 100%; justify-content: center; gap: .125rem; }
   .topnav__list a { font-size: .8125rem; padding: .375rem .5rem; }
