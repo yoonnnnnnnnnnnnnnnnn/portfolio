@@ -325,6 +325,8 @@ body {
   box-shadow: 0 .125rem .5rem rgba(88, 56, 19, .06);
 }
 .skills img { width: 100%; height: 100%; object-fit: cover; }
+/* 인라인 SVG 아이콘(피그마·VS Code)은 안쪽 여백을 줍니다 */
+.skills svg { width: 66%; height: 66%; }
 
 /* ═══════════ 카드 ═══════════ */
 .card {
