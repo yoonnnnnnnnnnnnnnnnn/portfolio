@@ -34,6 +34,7 @@ const PORTFOLIO_DATA = {
       logo: "assets/img/ch-busik.jpg",              // 채널 프로필 이미지
       link: "https://www.youtube.com/@busik_iTV",   // 채널 주소
       items: [
+      { url: "https://www.youtube.com/watch?v=3q2mG_dMkfo", views: "20.2만", title: "프라이빗하게 고급스럽고 호화로운 동래구 고급빌라 _ 온천장 디아트50", tags: [], date: "2024.07.07", thumb: "" },
       { url: "https://www.youtube.com/watch?v=w3aK3cYV82k", views: "5.2천", title: "프라이빗하게 고급스럽고 호화스러운 해운대 고급빌라 _ 클리프턴해운대", tags: [], date: "2026.04.10", thumb: "" },
       { url: "https://www.youtube.com/watch?v=_9JBEmryHb0", views: "1.5천", title: "와... 이건 진짜 로망 그자체 단독주택인데 이렇게 활용한다면 너무 좋다", tags: [], date: "2026.07.11", thumb: "" },
       { url: "https://www.youtube.com/watch?v=Di2YYDHm3HU", views: "8.7천", title: "에코델타시티디에트르더퍼스트 84C 탑복층 _ 구조 엄청 좋다!! 하지만 복층이 분양가 2억의 가치를 할까?", tags: [], date: "2026.04.25", thumb: "" },
