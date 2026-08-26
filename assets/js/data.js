@@ -130,15 +130,16 @@ const PORTFOLIO_DATA = {
     { url: "https://www.instagram.com/reel/DbAcEe7MVTW/", title: "강아지 발바닥 꼬순내 방치하면 안 되는 이유", views: "3.8만", thumb: "assets/img/sf-3.jpg" },
     { url: "https://www.instagram.com/reel/Da1efnVBHrT/", title: "올바른 백태 관리법", views: "1.6만", thumb: "assets/img/sf-8.jpg" },
     { url: "https://www.instagram.com/reel/DZLr5NxzY84/", title: "물리치료사가 몸값 높이는 현실적인 방법", views: "7,207", thumb: "assets/img/sf-9.jpg" },
-    { url: "https://www.instagram.com/reel/DWMEainEyMI/", title: "다이어트 캠프 진행중", views: "6,646", thumb: "assets/img/sf-15.jpg" },
+    { url: "https://www.instagram.com/reel/DTpBAHXk2H_/", title: "매주 출근하는 강아지 눙지", views: "6,646", thumb: "assets/img/sf-17.jpg" },
     { url: "https://www.instagram.com/reel/DbXsEdLsOQ2/", title: "예방접종 한 번에 다 맞히면 안 되는 이유", views: "6,324", thumb: "assets/img/sf-2.jpg" },
     { url: "https://www.instagram.com/reel/DaZUoqNvPxE/", title: "치아 수명을 갉아먹는 습관", views: "4,666", thumb: "assets/img/sf-7.jpg" },
     { url: "https://www.instagram.com/reel/DXGZIA4gnvi/", title: "필라테스 강사 자격증, 생각보다 괜찮습니다", views: "4,352", thumb: "assets/img/sf-13.jpg" },
     { url: "https://www.instagram.com/reel/DZl3HrGROJv/", title: "물리치료사 창업, 가능한 방법", views: "2,765", thumb: "assets/img/sf-16.jpg" },
+    { url: "https://www.instagram.com/reel/DWMEainEyMI/", title: "다이어트 캠프 진행중", views: "2,525", thumb: "assets/img/sf-15.jpg" },
     { url: "https://www.instagram.com/reel/DY3IF4Hz82Z/", title: "필라테스 강사 몇 살까지 가능할까", views: "1,892", thumb: "assets/img/sf-10.jpg" },
     { url: "https://www.instagram.com/reel/DYDxf-qz14N/", title: "무용·체육 전공자의 졸업 후 현실", views: "1,685", thumb: "assets/img/sf-12.jpg" },
     { url: "https://www.instagram.com/reel/DYREUH-RxXi/", title: "필라테스 자격증, 왕초보도 가능합니다", views: "1,574", thumb: "assets/img/sf-11.jpg" },
-    { url: "https://www.youtube.com/shorts/ORNrWDvh8sw", title: "물리치료사 창업? 가능한 현실적인 방법", views: "1,469", thumb: "" }
+    { url: "https://www.instagram.com/reel/DVDLgiSE9tj/", title: "명절에 찐 살, 같이 정리해요", views: "552", thumb: "assets/img/sf-18.jpg" }
   ],
 
   /* ── SELF-INITIATED : 직접 운영하는 유튜브 ─────────────────── */
