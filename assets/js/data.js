@@ -122,22 +122,23 @@ const PORTFOLIO_DATA = {
 
   /* ── SHORT-FORM : 릴스 / 쇼츠 (세로 영상) ──────────────────── */
   shortform: [
-    { url: "https://www.instagram.com/reel/DYmIRpJPVFP/", title: "여름 산책 위험 습관 3가지", views: "", thumb: "assets/img/sf-1.jpg" },
-    { url: "https://www.instagram.com/reel/DbXsEdLsOQ2/", title: "예방접종 한 번에 다 맞히면 안 되는 이유", views: "1.9천", thumb: "assets/img/sf-2.jpg" },
-    { url: "https://www.instagram.com/reel/DbAcEe7MVTW/", title: "강아지 발바닥 꼬순내 방치하면 안 되는 이유", views: "", thumb: "assets/img/sf-3.jpg" },
-    { url: "https://www.instagram.com/reel/DZ4fEZTNVpI/", title: "강아지 간식 켁켁, 골든타임 3분 대처법", views: "", thumb: "assets/img/sf-4.jpg" },
-    { url: "https://www.instagram.com/reel/DYg0K19JgY7/", title: "수의사가 권장하는 산책법 '스니파리'", views: "", thumb: "assets/img/sf-5.jpg" },
-    { url: "https://www.instagram.com/reel/DWGT6F4jJeK/", title: "반려견 상식 수의학적 팩트 체크", views: "", thumb: "assets/img/sf-6.jpg" },
-    { url: "https://www.instagram.com/reel/DaZUoqNvPxE/", title: "치아 수명을 갉아먹는 습관", views: "", thumb: "assets/img/sf-7.jpg" },
-    { url: "https://www.instagram.com/reel/Da1efnVBHrT/", title: "올바른 백태 관리법", views: "", thumb: "assets/img/sf-8.jpg" },
-    { url: "https://www.instagram.com/reel/DZLr5NxzY84/", title: "물리치료사가 몸값 높이는 현실적인 방법", views: "", thumb: "assets/img/sf-9.jpg" },
-    { url: "https://www.instagram.com/reel/DY3IF4Hz82Z/", title: "필라테스 강사 몇 살까지 가능할까", views: "", thumb: "assets/img/sf-10.jpg" },
-    { url: "https://www.instagram.com/reel/DYREUH-RxXi/", title: "필라테스 자격증, 왕초보도 가능합니다", views: "", thumb: "assets/img/sf-11.jpg" },
-    { url: "https://www.instagram.com/reel/DYDxf-qz14N/", title: "무용·체육 전공자의 졸업 후 현실", views: "", thumb: "assets/img/sf-12.jpg" },
-    { url: "https://www.instagram.com/reel/DXGZIA4gnvi/", title: "필라테스 강사 자격증, 생각보다 괜찮습니다", views: "", thumb: "assets/img/sf-13.jpg" },
-    { url: "https://www.instagram.com/reel/DUNfJdfEw0j/", title: "근력 상위 1% 도전", views: "", thumb: "assets/img/sf-14.jpg" },
-    { url: "https://www.instagram.com/reel/DWMEainEyMI/", title: "다이어트 캠프 진행중", views: "", thumb: "assets/img/sf-15.jpg" },
-    { url: "https://www.youtube.com/shorts/ORNrWDvh8sw", title: "물리치료사 창업? 가능한 현실적인 방법", views: "1.5천", thumb: "" }
+    { url: "https://www.instagram.com/reel/DWGT6F4jJeK/", title: "반려견 상식 수의학적 팩트 체크", views: "121만", thumb: "assets/img/sf-6.jpg" },
+    { url: "https://www.instagram.com/reel/DYg0K19JgY7/", title: "수의사가 권장하는 산책법 '스니파리'", views: "49.5만", thumb: "assets/img/sf-5.jpg" },
+    { url: "https://www.instagram.com/reel/DYmIRpJPVFP/", title: "여름 산책 위험 습관 3가지", views: "23만", thumb: "assets/img/sf-1.jpg" },
+    { url: "https://www.instagram.com/reel/DZ4fEZTNVpI/", title: "강아지 간식 켁켁, 골든타임 3분 대처법", views: "21.6만", thumb: "assets/img/sf-4.jpg" },
+    { url: "https://www.instagram.com/reel/DUNfJdfEw0j/", title: "근력 상위 1% 도전", views: "11.4만", thumb: "assets/img/sf-14.jpg" },
+    { url: "https://www.instagram.com/reel/DbAcEe7MVTW/", title: "강아지 발바닥 꼬순내 방치하면 안 되는 이유", views: "3.8만", thumb: "assets/img/sf-3.jpg" },
+    { url: "https://www.instagram.com/reel/Da1efnVBHrT/", title: "올바른 백태 관리법", views: "1.6만", thumb: "assets/img/sf-8.jpg" },
+    { url: "https://www.instagram.com/reel/DZLr5NxzY84/", title: "물리치료사가 몸값 높이는 현실적인 방법", views: "7,207", thumb: "assets/img/sf-9.jpg" },
+    { url: "https://www.instagram.com/reel/DWMEainEyMI/", title: "다이어트 캠프 진행중", views: "6,646", thumb: "assets/img/sf-15.jpg" },
+    { url: "https://www.instagram.com/reel/DbXsEdLsOQ2/", title: "예방접종 한 번에 다 맞히면 안 되는 이유", views: "6,324", thumb: "assets/img/sf-2.jpg" },
+    { url: "https://www.instagram.com/reel/DaZUoqNvPxE/", title: "치아 수명을 갉아먹는 습관", views: "4,666", thumb: "assets/img/sf-7.jpg" },
+    { url: "https://www.instagram.com/reel/DXGZIA4gnvi/", title: "필라테스 강사 자격증, 생각보다 괜찮습니다", views: "4,352", thumb: "assets/img/sf-13.jpg" },
+    { url: "https://www.instagram.com/reel/DZl3HrGROJv/", title: "물리치료사 창업, 가능한 방법", views: "2,765", thumb: "assets/img/sf-16.jpg" },
+    { url: "https://www.instagram.com/reel/DY3IF4Hz82Z/", title: "필라테스 강사 몇 살까지 가능할까", views: "1,892", thumb: "assets/img/sf-10.jpg" },
+    { url: "https://www.instagram.com/reel/DYDxf-qz14N/", title: "무용·체육 전공자의 졸업 후 현실", views: "1,685", thumb: "assets/img/sf-12.jpg" },
+    { url: "https://www.instagram.com/reel/DYREUH-RxXi/", title: "필라테스 자격증, 왕초보도 가능합니다", views: "1,574", thumb: "assets/img/sf-11.jpg" },
+    { url: "https://www.youtube.com/shorts/ORNrWDvh8sw", title: "물리치료사 창업? 가능한 현실적인 방법", views: "1,469", thumb: "" }
   ],
 
   /* ── SELF-INITIATED : 직접 운영하는 유튜브 ─────────────────── */
@@ -213,8 +214,8 @@ const PORTFOLIO_DATA = {
 
   /* ── BRAND PROJECT ─────────────────────────────────────────── */
   brand: [
-    { label: "01 BRAND", sub: "BX / BI", url: "", thumb: "assets/img/brand-1.jpg" },
-    { label: "02 WEBSITE", sub: "UI / UX", url: "https://hiddenday-web.vercel.app", thumb: "assets/img/brand-2.jpg" },
-    { label: "03 WEBSITE", sub: "UI / UX", url: "https://yoonnnnnnnnnnnnnnnnn.github.io/hiddenday/", thumb: "assets/img/brand-3.jpg" }
+    { label: "01 WEBSITE", sub: "UI / UX", url: "https://hiddenday-web.vercel.app", thumb: "assets/img/brand-2.jpg" },
+    { label: "02 WEBSITE", sub: "UI / UX", url: "https://yoonnnnnnnnnnnnnnnnn.github.io/hiddenday/", thumb: "assets/img/brand-3.jpg" },
+    { label: "03 BRAND", sub: "BX / BI", url: "", thumb: "assets/img/brand-1.jpg" }
   ]
 };
