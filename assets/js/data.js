@@ -218,6 +218,6 @@ const PORTFOLIO_DATA = {
   brand: [
     { label: "01 WEBSITE", sub: "UI / UX", url: "https://hiddenday-web.vercel.app", thumb: "assets/img/brand-2.jpg" },
     { label: "02 WEBSITE", sub: "UI / UX", url: "https://yoonnnnnnnnnnnnnnnnn.github.io/hiddenday/", thumb: "assets/img/brand-3.jpg" },
-    { label: "03 BRAND", sub: "BX / BI", url: "", thumb: "assets/img/brand-1.jpg" }
+    { label: "03 BRAND", sub: "BX / BI", url: "https://yoonnnnnnnnnnnnnnnnn.github.io/hiddenday-brand-guide/", thumb: "assets/img/brand-1.jpg" }
   ]
 };
