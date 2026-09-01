@@ -252,7 +252,7 @@ body {
   width: 1px; height: 84%;
   background: #2E2E2E;
 }
-.stats__label { font-family: var(--hand); font-size: 1.5rem; color: var(--ink); }
+.stats__label { font-family: var(--hand); font-size: 1.6875rem; color: var(--ink); }   /* 24 → 27px */
 .stats__value { font-family: var(--hand); font-weight: 400; font-size: 3rem; color: var(--ink); }
 
 /* ═══════════ ABOUT ═══════════ */
@@ -901,7 +901,7 @@ a.brand-item:hover .brand-item__box { transform: translateY(-.5rem); box-shadow:
   .stats li:nth-child(n+3)::after {
     content: ""; position: absolute; top: 0; left: 10%; width: 80%; height: 1px; background: rgba(0,0,0,.12);
   }
-  .stats__label { font-size: .9375rem; }
+  .stats__label { font-size: 1.125rem; }   /* 15 → 18px */
   .stats__value { font-size: 1.875rem; }
 
   /* 한 줄로 쌓일 때는 Profile·경력·Skill 묶음을 가운데로 */
